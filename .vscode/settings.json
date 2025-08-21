@@ -1,0 +1,9 @@
+{
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.formatOnSave": true,
+    },
+    "dart.openDevTools": "never",
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "cmake.configureOnOpen": false
+}
