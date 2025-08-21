@@ -39,6 +39,7 @@ class _AppViewState extends State<AppView> {
   Widget build(BuildContext context) {
     return MaterialApp(
       navigatorKey: _navigatorKey,
+      debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: const Color(0xFF121212),
         appBarTheme: const AppBarTheme(
